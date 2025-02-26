@@ -1329,6 +1329,7 @@ print(f'\033[1m{'Distinct passanger values'}\033[0m: {carry_away_coupon_data['pa
 print(f'{'----------------------------------------------------------------------\n\n'}')
 
 fig = px.histogram(data_frame=carry_away_coupon_data, x='coupon_accepted', color='passanger', title='Carry away Coupons Accepted Rate based on Passenger Type')
+fig.write_image("images/carry_away_coupons_passanger.png", format="png", width=800, height=600, scale=2)
 fig.show()
 ```
 
@@ -1336,7 +1337,7 @@ fig.show()
     [1mDistinct passanger values[0m: ['Friend(s)' 'Alone' 'Kid(s)' 'Partner']
     ----------------------------------------------------------------------
     
-    
+    ![png](images/carry_away_coupons_passanger.png)
 
 
 
