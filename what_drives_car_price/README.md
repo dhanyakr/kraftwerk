@@ -77,6 +77,6 @@ The dealership can leverage these insights to refine its operations and strategi
 ---
 
 ### **Link to the Notebook**
-[Notebook](./prompt_II.ipynb)
+[Notebook](./car_price_analysis.ipynb)
 
 ---
