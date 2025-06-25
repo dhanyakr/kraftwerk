@@ -50,7 +50,7 @@ To identify a larger dataset which has more info about the product such as brand
 
 #### Outline of project
 
-[Notebook](./generate_category_title_from_image.pynb)
+[Notebook](./generate_category_title_from_image.ipynb)
 
 
 ##### Contact and Further Information
