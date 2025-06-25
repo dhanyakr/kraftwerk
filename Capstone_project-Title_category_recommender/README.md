@@ -40,16 +40,17 @@ Data Modeling using K-Nearest Neighbors (KNN), Decision Trees, Logistic Regressi
 #### Results
 What did your research find?
 
-
+To make more accurate recommentation, we need a dataset which includes images of a product with various angles. Also, the data should have more info about the brand and styling information of the product, so that we can predict those fields for the seller to make things easy for them. 
 
 #### Next steps
 What suggestions do you have for next steps?
 
+To identify a larger dataset which has more info about the product such as brand, subcategory, style info etc. also images of a product from different angle. Wiith which we could recommend more accurate suggestions.
+
+
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+[Notebook](./generate_category_title_from_image.pynb)
 
 
 ##### Contact and Further Information
