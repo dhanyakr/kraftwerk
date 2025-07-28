@@ -55,17 +55,14 @@ The overall pipeline involves:
 
 1. Data Preprocessing
 Loaded and resized images
-
 Cleaned metadata and encoded categories
 
 2. Exploratory Data Analysis (EDA)
 Analyzed class distribution
-
 Visualized sample categories and image metadata
 
 3. Feature Extraction
 Flattened image matrices for traditional classifiers
-
 Used color and shape-based pixel intensities
 
 4. Modeling
@@ -81,7 +78,6 @@ Accuracy, F1 Score, Classification Report
 
 Classifier Results:
 Random Forest and SVM outperformed Logistic Regression for category classification.
-
 ResNet50 model achieved notably higher accuracy on category prediction using transfer learning.
 
 Model	Accuracy (Top Categories)
